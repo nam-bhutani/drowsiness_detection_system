@@ -1,6 +1,6 @@
 # drowsiness_detection_system
 ## RAW DATASET LINK
-https://drive.google.com/drive/folders/1i7qg3l6yZ3soSAkVuxNPEJZoJ0kQjP3p?usp=drive_link
+https://www.kaggle.com/datasets/talhabhatti7262/drivers-drowsiness-detection
 ## X DATA LINK
 https://drive.google.com/file/d/17s1l8wRDoeGALVUk3H_eN5dVpy4D9V0A/view?usp=drive_link
 ## Y DATA LINK
